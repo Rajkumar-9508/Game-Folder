@@ -126,5 +126,4 @@ if (openModal && closeModal && modal) {
     }
   });
 }
-
 createBoard();
