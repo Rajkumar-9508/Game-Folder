@@ -12,6 +12,9 @@ body {
     padding: 30px;
     height: 100vh;
     background-image: url('https://i.pinimg.com/1200x/be/6c/bf/be6cbf612b172a13bc4bbf06fdb3faae.jpg');
+    background-size: cover;           
+    background-position: center;      
+    background-repeat: no-repeat;
 
 }
 
